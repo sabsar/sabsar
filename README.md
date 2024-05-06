@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sabsar/sabsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About me [^1]
+I'm a scientist involved in research and development of advanced materials solutions and their associated manufacturing technologies for application as components in lithium-ion batteries.
+
+[^1]: [Linkedin](https://www.linkedin.com/in/saheem)
